@@ -1,16 +1,14 @@
 Fernando Gutierrez 
 3/17/2024
-Peer review by :
+Peer review by : Ellie Rasuli
 Peer review desc:
 
+Your website is functional and has some interesting job choices! I like how each page has their own individual tabs for each section.
 
+Just design wise, the images don't really line up, and it might look better if each image was the same width and length on the homepage. Also, in your navbar, the Home page doesn't have a page name to the side so it seems incosistent with the other pages that too. 
+On shorter pages such as Netflix and Discord, there is a white bar at the bottom of the screen where the background ends. If you made a bg class at the outermost element of the App page, it should fill the entire screen with your background color.
 
-
-
-
-
-
-
+Good job!
 
 
 # Getting Started with Create React App
