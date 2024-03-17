@@ -2,6 +2,28 @@
   text-align: center;
 }
 
+
+
+li{
+  padding-top: 5px;
+  
+}
+div{
+background-color: gray;
+}
+li:hover{
+  background-color: aqua;
+  border-radius: 10px;
+  color: crimson;
+}
+.nav{
+  background-color:coral;
+}
+
+.Image{
+  height: 10px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -23,6 +45,9 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+
+
 
 .App-link {
   color: #61dafb;
