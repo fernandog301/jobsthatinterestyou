@@ -71,9 +71,12 @@ const FirstJobPageComponent = () => {
       </ul>
       </Tab>
     </Tabs>
-    </Col>
+    </Col>    
+    <a href="https://jobs.netflix.com/teams/core-engineering" className='link'>Netflix jobs link for software</a>
+
     </Row>
     </Container>
+
     </div>
   )
 }

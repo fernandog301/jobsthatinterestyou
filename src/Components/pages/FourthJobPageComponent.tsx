@@ -81,8 +81,11 @@ const FourthJobPageComponent = () => {
       </Tab>
     </Tabs>
     </Col>
+    <a href="https://supercell.com/en/careers/" className='link'>We create games that are played for years and remembered forever.</a>
+
     </Row>
     </Container>
+
     </div>
   )
 }

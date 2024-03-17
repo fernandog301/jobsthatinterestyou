@@ -69,8 +69,11 @@ const SecoundJobPageComponent = () => {
       </Tab>
     </Tabs>
     </Col>
+    <a href="https://discord.com/careers" className='link'>Discord is home to (com) passionate people who believe in our mission of creating space for everyone to find belonging.</a>
+
     </Row>
     </Container>
+
     </div>
   )
 }

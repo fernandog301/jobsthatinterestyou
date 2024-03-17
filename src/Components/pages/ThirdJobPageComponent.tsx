@@ -92,8 +92,10 @@ const ThirdJobPageComponent = () => {
       </Tab>
     </Tabs>
     </Col>
+
     </Row>
     </Container>
+
     </div>
   )
 }
